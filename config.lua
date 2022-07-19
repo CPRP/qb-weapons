@@ -164,7 +164,7 @@ Config.DurabilityMultiplier = {
 
 Config.WeaponRepairPoints = {
     [1] = {
-        coords = vector3(18.36, -1110.1, 29.8),
+        coords = vector3(9.6, -1110.54, 29.8),
         IsRepairing = false,
         RepairingData = {},
     }
