@@ -1073,3 +1073,9 @@ WeaponAttachments = {
         },
     },
 }
+
+local function getConfigWeaponAttachments(weapon)
+    return WeaponAttachments[weapon]
+end
+
+exports('getConfigWeaponAttachments', getConfigWeaponAttachments)
