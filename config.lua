@@ -135,7 +135,7 @@ Config.DurabilityMultiplier = {
 	['weapon_petrolcan'] 			= 0.15,
 	['weapon_fireextinguisher'] 	= 0.15,
 	['weapon_hazardcan'] 			= 0.15,
-    	['weapon_fertilizercan'] 		= 0.15,
+    ['weapon_fertilizercan'] 		= 0.15,
 	
 	--Custom Weapons
    	['weapon_ak47'] 			    = 0.15,
@@ -160,13 +160,13 @@ Config.DurabilityMultiplier = {
   	['weapon_shiv'] 	            = 0.15,
   	['weapon_katana'] 	            = 0.15,
   	['weapon_sledgehammer'] 	    = 0.15,
-    	['weapon_mp5'] 			        = 0.15,
-    	['weapon_glock18c'] 		    = 0.15,
-    	['weapon_glock22'] 			    = 0.15,
-    	['weapon_aks74'] 			    = 0.15,
-    	['weapon_ak74'] 			    = 0.15,
-    	['weapon_karambit'] 	        = 0.15,
-    	['weapon_colbaton'] 	        = 0.15,
+    ['weapon_mp5'] 			        = 0.15,
+    ['weapon_glock18c'] 		    = 0.15,
+    ['weapon_glock22'] 			    = 0.15,
+    ['weapon_aks74'] 			    = 0.15,
+    ['weapon_ak74'] 			    = 0.15,
+    ['weapon_karambit'] 	        = 0.15,
+    ['weapon_colbaton'] 	        = 0.15,
 }
 
 Config.WeaponRepairPoints = {
